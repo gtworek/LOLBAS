@@ -14,7 +14,7 @@ Commands:
 Full_Path:
   - Path: c:\windows\system32\setres.exe
 Code_Sample:
-  - Code: 
+  - Code:
 Detection:
   - IOC: Unusual location for choice.exe file
   - IOC: Process created from choice.com binary
